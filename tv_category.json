@@ -1,0 +1,143 @@
+{ "TV" : 
+  [ 
+    { "category" : "KÊNH PHỔ BIẾN",
+      "videos" : 
+	  [ 
+		{ 
+			"description" : "Kênh truyền hình Copa America",
+			"urls" : 
+				[  
+				"http://hlscache.fptplay.net.vn/event/copa01_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImNmNzU5YjM1NzE2NjVkMzdmMzVhNTA2N2U4MjY4N2NmIiwgInNlcnZlcl90aW1lIjogMTQ2NTk1NzgwNCwgImNoYW5uZWxfaWQiOiAiY29wYS1hbWVyaWNhLTEiLCAidmFsaWRfbWludXRlcyI6IDE0NDB9&did=5370df25b93499a9&uid=", 
+				"http://hlscache.fptplay.net.vn/event/copa01_1000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjIxNDc3YWQ0YjMzMzQ1NjVjYWZmMDFjNjNmMTViYmMzIiwgInNlcnZlcl90aW1lIjogMTQ2NTk1Nzg3NywgImNoYW5uZWxfaWQiOiAiY29wYS1hbWVyaWNhLTEiLCAidmFsaWRfbWludXRlcyI6IDE0NDB9&did=5370df25b93499a9&uid=", 
+				"http://hlscache.fptplay.net.vn/event/copa01_500.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImM3MzdhNzk3MjhlYjRjOTU1ZjgxZTcxYmVmNzU5YjAzIiwgInNlcnZlcl90aW1lIjogMTQ2NTk1Nzk0MCwgImNoYW5uZWxfaWQiOiAiY29wYS1hbWVyaWNhLTEiLCAidmFsaWRfbWludXRlcyI6IDE0NDB9&did=5370df25b93499a9&uid=",
+				"http://hlscache.fptplay.net.vn/event/copa01_300.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImY5YmQ5OTkxOGI1MmVhNzFhN2YyYWQwNjJhYWViYjg5IiwgInNlcnZlcl90aW1lIjogMTQ2NTk1ODAxNywgImNoYW5uZWxfaWQiOiAiY29wYS1hbWVyaWNhLTEiLCAidmFsaWRfbWludXRlcyI6IDE0NDB9&did=5370df25b93499a9&uid=" 
+				],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_copa-america-1_146459830381.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "Copa America 1",
+            "sub-title" : "Kênh truyền hình Copa America"
+        },
+		{ 
+			"description" : "Kênh VTV1 là kênh truyền hình quốc gia",
+			"urls" : 
+				[
+				"http://hlscache.fptplay.net.vn/livek/vtv1hd_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjVlMDM1OWNmN2QxZWFjYzdlZDMxNDcxMDFjM2RjYzhmIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTEyNywgImNoYW5uZWxfaWQiOiAidnR2MS1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=", 
+				"http://hlscache.fptplay.net.vn/livek/vtv1hd_1000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImJiOGE3ODRlNjEzYWJhYmI3NDJhOTA4MTM0YjdkZDEzIiwgInNlcnZlcl90aW1lIjogMTQ2NTk1NzAzMiwgImNoYW5uZWxfaWQiOiAidnR2MS1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=",
+				"http://hlscache.fptplay.net.vn/livek/vtv1hd_500.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImJiOGE3ODRlNjEzYWJhYmI3NDJhOTA4MTM0YjdkZDEzIiwgInNlcnZlcl90aW1lIjogMTQ2NTk1NzAzMiwgImNoYW5uZWxfaWQiOiAidnR2MS1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=",
+				"http://hlscache.fptplay.net.vn/livek/vtv1hd_300.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImJiOGE3ODRlNjEzYWJhYmI3NDJhOTA4MTM0YjdkZDEzIiwgInNlcnZlcl90aW1lIjogMTQ2NTk1NzAzMiwgImNoYW5uZWxfaWQiOiAidnR2MS1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid="
+				],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_14581021630.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "VTV1 HD",
+            "sub-title" : "Kênh VTV1 là kênh truyền hình quốc gia"
+        },
+		{ 
+			"description" : "Kênh VTV3 là kênh truyền hình quốc gia",
+			"urls" : 
+				[ 
+				"http://hlscache.fptplay.net.vn/event/vtv3hd_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImFlMTZiYTI4ZjMzOTQ3YWVlM2M2NmJkNTg4ZGIyMmI0IiwgInNlcnZlcl90aW1lIjogMTQ2NTk4NDU0OSwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=",
+				"http://hlscache.fptplay.net.vn/event/vtv3hd_1000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImRiNDQyY2FjZDBkZDRlZWJlZDE2ZWJjYjUyZmUzZTMzIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTQ1MSwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=",
+				"http://hlscache.fptplay.net.vn/event/vtv3hd_500.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImRiNDQyY2FjZDBkZDRlZWJlZDE2ZWJjYjUyZmUzZTMzIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTQ1MSwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=",
+				"http://hlscache.fptplay.net.vn/event/vtv3hd_300.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImRiNDQyY2FjZDBkZDRlZWJlZDE2ZWJjYjUyZmUzZTMzIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTQ1MSwgImNoYW5uZWxfaWQiOiAidnR2My1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid="
+				],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_145810226276.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "VTV3 HD",
+            "sub-title" : "Kênh VTV3 là kênh truyền hình quốc gia"
+        }	
+      ]
+    },
+	{ "category" : "KÊNH THỂ THAO",
+      "videos" : 
+	  [ 
+		{ 
+			"description" : "Kênh truyền hình VTC3 là kênh thể thao của đài KTS VTC",
+			"urls" : [ "http://hlscache.fptplay.net.vn/liver/vtc3hd_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ2YjFkOTlhNGQ3YTlkYTM2ZThhNmEzZGY4NWFlYTExIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTIyNCwgImNoYW5uZWxfaWQiOiAidnRjMy1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "VTC3 HD",
+            "sub-title" : "Kênh truyền hình VTC3 là kênh thể thao của đài KTS VTC"
+        },
+		{ 
+			"description" : "Kênh truyền hình HTVC là kênh thể thao",
+			"urls" : [ "http://hlscache.fptplay.net.vn/livek/htvcthethao_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImNmYTdkMDM2OTM3MDAwMjI0ZTRlM2Q2MDg4OTdkMTAxIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTI4NiwgImNoYW5uZWxfaWQiOiAiaHR2Yy10aGUtdGhhbyIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_145578270105.png?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "HTVC Thể thao",
+            "sub-title" : "Kênh truyền hình HTVC là kênh thể thao"
+        }
+      ]
+    },
+	{ "category" : "KÊNH PHIM TRUYỆN",
+      "videos" : 
+	  [ 
+		{ 
+			"description" : "Kênh truyền hình HTVC Thuần Việt là kênh phim truyện",
+			"urls" : [ "http://hlscache.fptplay.net.vn/liver/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImE1NTE0MmI5MTRlNzg2NDMwZTY2NzM5N2E2YWQ0NWNlIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTM4NCwgImNoYW5uZWxfaWQiOiAiaHR2Yy10aHVhbi12aWV0LWhkIiwgInZhbGlkX21pbnV0ZXMiOiAxNDQwfQ&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_145578232318.png?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "HTVC Thuần Việt HD",
+            "sub-title" : "Kênh truyền hình HTVC Thuần Việt là kênh phim truyện"
+        },
+		{ 
+			"description" : "Kênh truyền hình HTVC Thuần Việt là kênh phim truyện",
+			"urls" : [ "http://hlscache.fptplay.net.vn/lives/htvcthuanviet_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjI4ZWE0YzcwOGMzMWQ0Y2ZmMGE3ZjRlZDdlMTE3ZjIwIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTYxNSwgImNoYW5uZWxfaWQiOiAiaHR2Yy10aHVhbi12aWV0LXNkIiwgInZhbGlkX21pbnV0ZXMiOiAxNDQwfQ&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_145578233591.png?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "HTVC Thuần Việt SD",
+            "sub-title" : "Kênh truyền hình HTVC Thuần Việt là kênh phim truyện"
+        },
+		{ 
+			"description" : "Kênh truyền hình HTVC Movie là kênh phim truyện",
+			"urls" : [ "http://hlscache.fptplay.net.vn/livek/htvcmoviehd_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjY3MDA1OWMxOGQ0NmExODZmZmJjZTdjY2Q1NTY0OTczIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTY5NCwgImNoYW5uZWxfaWQiOiAiaHR2Yy1tb3ZpZS1oZCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-movie-hd_145672772885.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "HTVC Movie HD",
+            "sub-title" : "Kênh truyền hình HTVC Movie là kênh phim truyện"
+        }	
+      ]
+    },
+	{ "category" : "KÊNH GIẢI TRÍ TỔNG HỢP",
+      "videos" : 
+	  [ 
+		{ 
+			"description" : "Kênh truyền hình VTV2 là kênh truyền hình quốc gia",
+			"urls" : [ "http://hlscache.fptplay.net.vn/liver/vtv2_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjdmMzI2ZGFjZWI3MjE1YTBjY2U5N2E3NTQyZTU2MTQ2IiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTc1MSwgImNoYW5uZWxfaWQiOiAidnR2MiIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_145810228672.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "VTV2",
+            "sub-title" : "Kênh truyền hình VTV2 là kênh truyền hình quốc gia"
+        },
+		{ 
+			"description" : "Kênh truyền hình VTV4 là kênh truyền hình quốc gia",
+			"urls" : [ "http://hlscache.fptplay.net.vn/liver/vtv4_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjIzMDUzYzViOTlmOWExNmI4NmJjY2JkY2Y0OGM3ZTg3IiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTc4MSwgImNoYW5uZWxfaWQiOiAidnR2NCIsICJ2YWxpZF9taW51dGVzIjogMTQ0MH0&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_145673033292.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "VTV4",
+            "sub-title" : "Kênh truyền hình VTV4 là kênh truyền hình quốc gia"
+        }
+      ]
+    },
+	{ "category" : "KÊNH THIẾU NHI",
+      "videos" : 
+	  [ 
+		{ 
+			"description" : "Kênh truyền hình SAM là kênh truyền hình thiếu nhi",
+			"urls" : [ "http://hlscache.fptplay.net.vn/lives/sam_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjIzYTdjZTk5MDc0YjkzMjUzZDljM2Q3YTg4ZTIwMWJjIiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTgyNSwgImNoYW5uZWxfaWQiOiAic2FtIiwgInZhbGlkX21pbnV0ZXMiOiAxNDQwfQ&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_sam_145672992973.jpg?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "SAM",
+            "sub-title" : "Kênh truyền hình SAM là kênh truyền hình thiếu nhi"
+        },
+		{ 
+			"description" : "Kênh truyền hình VTC11 KIDS TV là kênh truyền hình thiếu nhi của đài KTS VTC",
+			"urls" : [ "http://hlscache.fptplay.net.vn/liver/vtc11_2000.stream/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImU4Njc4ZmM4NzQ0ZDUxMWQ1ODQxMzJkYWE5NThjMjQ2IiwgInNlcnZlcl90aW1lIjogMTQ2NTg3NTg1MiwgImNoYW5uZWxfaWQiOiAidnRjMTEtdGhpZXUtbmhpIiwgInZhbGlkX21pbnV0ZXMiOiAxNDQwfQ&did=5370df25b93499a9&uid=" ],
+			"card" : "https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png?w=345&h=210&mode=scale",
+	    	"background" : "bg.jpg",
+            "title" : "VTC11 Thiếu Nhi",
+            "sub-title" : "Kênh truyền hình VTC11 KIDS TV là kênh truyền hình thiếu nhi của đài KTS VTC"
+        }
+      ]
+    }
+  ]
+}
